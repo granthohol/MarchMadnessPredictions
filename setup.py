@@ -7,8 +7,10 @@ setup(
     author_email='ghohol@wisc.edu',
     packages=find_packages(),
     install_requires=[
-        'pandas~=1.3.3',
+        'pandas',
         'scikit-learn',
-        'seaborn'
+        'seaborn',
+        'numpy',
+        'matplotlib'
     ]
 )
