@@ -11,6 +11,8 @@ setup(
         'scikit-learn',
         'seaborn',
         'numpy',
-        'matplotlib'
+        'matplotlib',
+        'requests',
+        'BeautifulSoup'
     ]
 )
