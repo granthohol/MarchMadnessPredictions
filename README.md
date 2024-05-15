@@ -24,11 +24,11 @@ To run the model training, you need to have the following libraries installed:
 - matplotlib
 - sklearn
 
-  You can install these libraries using 'pip'
+You can install these libraries using 'pip'
 
-  ## Usage
+## Usage
   1. Clone this repo to your local machine
   2. Navigate to the project directory
   3. Open the 'EDA_AND_MODEL_TRAINING.ipynb' Jupyter Notebook
 
-  I hope people can use this project for March Madness tournaments in the future. It should not be too difficult to edit the code to predict for 2025, 2026, etc. tournaments. Also, people could expand on the project to include more variables from other datasets in the model training which should not be too difficult either. 
+I hope people can use this project for March Madness tournaments in the future. It should not be too difficult to edit the code to predict for 2025, 2026, etc. tournaments. Also, people could expand on the project to include more variables from other datasets in the model training which should not be too difficult either. 
