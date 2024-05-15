@@ -3,6 +3,8 @@ A data analysis and machine learning project used to analyze success variables i
 
 Built using Python, pandas, and scikit-learn
 
+!(/d C:\Downloads\midwest_region.png)
+
 ## Data
 The data used in this analysis is stored in the 'data' directory. Thanks to Bart Torvik and Evan Miyakawa for maintaining some of the best college basketball datasets. 
 
